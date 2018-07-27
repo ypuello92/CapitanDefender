@@ -1,2 +1,0 @@
-# CapitanDefender
-Proyecto Fedesoft
